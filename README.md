@@ -2,9 +2,9 @@
 
 
 # WA_CRASHER
-WhatsApp Crash With one  Message
+WhatsApp Crash With 1000 Messages
 
-###### Crash Whatsapp by  sending Only One Text.
+###### Crash Whatsapp by  sending Only alot Text.
 ***
 ### <p align="center">Commands to run tool in ur terminal
 ***
